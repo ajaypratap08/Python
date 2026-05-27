@@ -28,3 +28,7 @@
 # 6. Convert tuple to list
 # 7. Sort list ascending/descending
 # 8. Remove duplicates without using set
+
+str = "abdgABCier"
+for(i in str):
+    
